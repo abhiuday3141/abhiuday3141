@@ -3,12 +3,12 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at <a href = "https://github.com/abhiuday3141"> </a>
+- 👨‍💻 All of my projects are available at <a href = "https://github.com/abhiuday3141">here</a>
 - 💬 Ask me about **C++ Data Structures Algorithms Python**
 
 - 📫 How to reach me **abhiuday102@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1koeBAwPFmXdM1sXVksHd5MR0tbVEjFVQ/view?usp=sharing"> </a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1koeBAwPFmXdM1sXVksHd5MR0tbVEjFVQ/view?usp=sharing"> here </a>
 - ⚡ Fun fact **Some Codes Become immutable memories**
 
 <h3 align="left">Connect with me:</h3>
