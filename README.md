@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at <a href = "https://github.com/abhiuday3141">here</a>
-- 💬 Ask me about **C++ Data Structures Algorithms Python**
+- 💬 Ask me about **C++ Data Structures Algorithms | Python**
 
 - 📫 How to reach me **abhiuday102@gmail.com**
 
