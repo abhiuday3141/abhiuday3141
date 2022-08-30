@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Uday Pandey</h1>
-<h3 align="center">Competitive Programmer|ML enthusiast</h3>
-
+<h3 align="center">Machine Learning and Data Structures and Algorithms<h3>
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at <a href = "https://github.com/abhiuday3141">here</a>
